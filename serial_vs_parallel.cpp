@@ -1,5 +1,5 @@
 /**
- * Copyright Fuck You this is gay
+ * Copyright rabesj@miamioh.edu
  * A simple source file to keep parts of the exercise nicely organized.
  *
  */
